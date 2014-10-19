@@ -1,0 +1,36 @@
+Ishodnie dannie:
+Lambda=2.000
+Vremya obsluzhivania=0.700
+Chislo kanalov K=3
+Dlina ocheredi L=15
+
+Rezultati:
+Zayavok obrabotano: 2000
+Vsego vremeni zatracheno: 994.18694 u.e.v.
+
+Veroyatnost nahozhdenia sistemi v razlichnih sostoyaniyah:
+S0:  p0=0.2479
+S1:  p1=0.3245
+S2:  p2=0.2234
+S3:  p3=0.1016
+S4:  p4=0.0461
+S5:  p5=0.0235
+S6:  p6=0.0144
+S7:  p7=0.0075
+S8:  p8=0.0038
+S9:  p9=0.0046
+S10:  p10=0.0021
+S11:  p11=0.0006
+S12:  p12=0.0000
+S13:  p13=0.0000
+S14:  p14=0.0000
+S15:  p15=0.0000
+S16:  p16=0.0000
+S17:  p17=0.0000
+S18:  p18=0.0000
+Veroyatnost otkaza: 0.0000
+Koeffitsient prostoya: 0.2479
+Koeffitsient zagruzki: 0.7521
+Propusknaya sposobnost: 2.0000
+Srednee chislo zayavok: 1.6168
+Srednee chislo obsluzhivaushchihsya zayavok: 1.6168
